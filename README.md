@@ -77,4 +77,4 @@ Key visualizations included:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/LG10-main.git
-   cd LG10-main
+   cd Sales-Data-Analysis-main
